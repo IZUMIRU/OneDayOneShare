@@ -1,6 +1,6 @@
 # OneDayOneShare
 
-Githubのissueでシェアしたリンクをを、Chatwork「OneDayOneShare」に通知する。
+Githubのissueでシェアしたリンクを、Chatwork「OneDayOneShare」に通知する。
 
 ====================================================
 ## Architecture
